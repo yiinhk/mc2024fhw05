@@ -1,10 +1,9 @@
 # Vtuber-Live-using-visual-script
- 
-
-<img src="https://www.svgrepo.com/show/530504/set-up.svg" width="70px" /> <img src="https://memes.tw/user-text-tmp/1728269831888.png" width="120px" />
 
 
 # 模擬Vtuber直播場景(抖內、跳舞)使用視覺化編程
+
+<img src="https://www.svgrepo.com/show/530504/set-up.svg" width="70px" /> <img src="https://memes.tw/user-text-tmp/1728269831888.png" width="120px" />
 
 #### 1.首先在Asset中找到“Scenes”資料夾 >> 打開“Sample Scene.unity”：
 
