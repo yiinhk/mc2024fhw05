@@ -1,6 +1,8 @@
 # Vtuber-Live-using-visual-script
  
-<img width="641" alt="image" src="https://github.com/user-attachments/assets/8bc23fd2-12e1-4644-a906-8f6b302b1c35">
+
+<img src="https://www.svgrepo.com/show/530504/set-up.svg" width="70px" /> <img src="https://memes.tw/user-text-tmp/1728269831888.png" width="120px" />
+
 
 # 模擬Vtuber直播場景(抖內、跳舞)使用視覺化編程
 
@@ -18,3 +20,13 @@
 #### 3.看到此畫面就代表前置步驟設定好囉！
 
 <img width="641" alt="image" src="https://github.com/user-attachments/assets/8bc23fd2-12e1-4644-a906-8f6b302b1c35">
+
+#
+<img src="https://www.svgrepo.com/show/425254/balls-basketball.svg" width="70px" /> <img src="https://memes.tw/user-text-tmp/1728269999898.png" width="120px" />
+
+<img width="641" alt="373525285-8bc23fd2-12e1-4644-a906-8f6b302b1c35" src="https://github.com/user-attachments/assets/764d9c6a-38a5-47ff-a7ce-4e0e61ffad12">
+
+* 按鈕1:點擊後讓角色跳 "Chicken Dance"
+* 按鈕2:點擊後讓角色跳 "Snake Hip Hop Dance"
+* 按鈕3:點擊後讓角色跳 "Jump"
+* 按鈕4:點擊斗內按鈕後角色會"跳舞"、"背景音樂發出罐頭音效"、"煙火粒子效果",需要等待冷卻時間後才可再點擊
