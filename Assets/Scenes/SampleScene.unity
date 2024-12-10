@@ -217,9 +217,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: c8a21b12ba20a114997ce46de48dd19c, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 966165854d2fca54aa11777e7060403c, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.422
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1374,7 +1374,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 00a1c276ae2b54c408f39d230fdf07ef, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.556
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1958,7 +1958,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 3ad61ecf2cb3e4e4f92c38a4340908cd, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.661
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -11984,7 +11984,7 @@ MonoBehaviour:
   Dance_Button1: {fileID: 1970378957}
   Dance_Button2: {fileID: 625410344}
   Dance_Button3: {fileID: 840249378}
-  Avatar: {fileID: 0}
+  Avatar: {fileID: 921919748538762340, guid: 2deb7dbef095fed4eb01fabb7878903b, type: 3}
 --- !u!1001 &2008653179
 PrefabInstance:
   m_ObjectHideFlags: 0
